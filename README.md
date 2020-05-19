@@ -15,6 +15,9 @@ Python3
 opencv
 opencv-contrib
 ```
+```
+Download yolov3 weights from [yolov3_weights](https://pjreddie.com/media/files/yolov3.weights).
+```
 
 ## Running the project
 
