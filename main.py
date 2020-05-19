@@ -96,7 +96,8 @@ while(cap.isOpened()):
 					count_ppl+=1
 
 		# Calculating pixel distance 
-		# Using Euclidean distance the distance between two bboxes' midpoint pixel is calculated.
+		# Using Euclidean distance the distance between two bboxes' midpoint (pixels) is calculated.
+		# The Euclidean distance is the straight-line distance between two pixels.
 		
 		off=0
 		for i in range(len(lf)):
