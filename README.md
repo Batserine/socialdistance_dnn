@@ -25,6 +25,16 @@ Download yolov3 weights from [yolov3_weights](https://pjreddie.com/media/files/y
 python[3] main.py
 python[3] f2vid.py
 ```
+## Output
+
+```
+* A list of frames in frames and offenders folders respectively.
+* Video formed from list of frames.
+```
+```
+main folder output: Total no.of frames: 194   Total no.of Offending people: 60
+```
+
 
 ## Acknowledgments
 
