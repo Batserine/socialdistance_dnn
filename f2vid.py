@@ -1,3 +1,11 @@
+#Steps:
+# 1.Read each image using cv2.imread()
+# 2.Initialize the video writer using cv2.VideoWriter()
+# 3.Save the frames to a video file using cv2.VideoWriter.write()
+# 4.Wait for keyboard button press using cv2.waitKey()
+# 5.Release the VideoWriter using cv2.VideoWriter.release()
+# 6.Exit window and destroy all windows using cv2.destroyAllWindows()
+
 import cv2
 import numpy as np
 import os
